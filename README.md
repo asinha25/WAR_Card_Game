@@ -1,4 +1,4 @@
-## Homework 3: implementing a stateful network protocol
+## Implementing a stateful network protocol
 
 This assignment will require you to write an implementation of a server for a very simple stateful network protocol. You will implement both the server and the client, and they will be expected both to speak the protocol correctly to each other as well as to speak the protocol correctly with our own reference implementation.
 
